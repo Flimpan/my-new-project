@@ -12,8 +12,7 @@ When doing math problems sites such as Wolfram Alpha can be very helpful in help
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-My idea helps people who might not be very well versed in writing advanced math formulas easily explain their math problem.
+My idea helps people who might not be very well versed in writing advanced math formulas easily explain their math problem. It makes math easier to learn and understand by removing the need to write the equations down, which can be both time consuming and confusing for those that might struggle with maths.
 
 What my idea will help with:
 * No needing to writ equations in Latex.
@@ -25,9 +24,11 @@ What my idea will help with:
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
+The idea is for the user to 
+
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+!([https://previews.123rf.com/images/antonioguillem/antonioguillem1701/antonioguillem170100031/68710765-casual-man-talking-to-the-mobile-phone-using-the-voice-recognition-at-home.jpg])
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
