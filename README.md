@@ -1,13 +1,13 @@
-# my-AI idea-project
+# Math by voice input - Your AI idea
 Building AI course project
 
-# Project Title
+# Math by voice input
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+When doing math problems sites such as Wolfram Alpha can be very helpful in helping you with basically any and all math problems (except maybe those at the highest of levels), but you as a user must still understand how to format, write and apply the math problems in a correct way. My project idea is to create an AI that can understand, and analyse voice commands to help the user solve math problems, without the need to use a computer or write in programs such as Latex etc. By just using voice commands you can tell the program what you need help with, or what math problem you want help solving, without the need for hard-to-understand text.
 
 
 ## Background
