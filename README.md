@@ -1,4 +1,4 @@
-# Math by voice input - Your AI idea
+# Math by voice input - My AI idea
 Building AI course project
 
 # Math by voice input
@@ -13,11 +13,12 @@ When doing math problems sites such as Wolfram Alpha can be very helpful in help
 ## Background
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+My idea helps people who might not be very well versed in writing advanced math formulas easily explain their math problem.
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+What my idea will help with:
+* No needing to writ equations in Latex.
+* No need to translate advanced math problems to english when using the internet for help.
+* No need to use text for those with dyslexia, bad eyesight etc.
 
 
 ## How is it used?
