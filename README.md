@@ -9,7 +9,7 @@ Final project for the Building AI course
 
 (Note: This is a WiP, I'm sorry if my project seems unfinnished when you're reading this... also I can barely code at all in Python so there will be no codes (right now at least...) Thank you!)
 
-When doing math problems sites such as Wolfram Alpha can be very helpful in helping you with basically any and all math problems (except maybe those at the highest of levels), but you as a user must still understand how to format, write and apply the math problems in a correct way. My project idea is to create an AI that can understand, and analyse voice commands to help the user solve math problems, without the need to use a computer or write in programs such as Latex etc. By just using voice commands you can tell the program what you need help with, or what math problem you want help solving, without the need for hard-to-understand text.
+When doing math problems sites such as Wolfram Alpha can be very helpful in helping you with basically any and all math problems (except maybe those at the highest of levels), but you as a user must still understand how to format, write and apply the math problems in a correct way. My project idea is to create a program that can understand, and analyse voice commands to help the user solve math problems, without the need to use a computer or write in programs such as Latex etc. By just using voice commands you can tell the program what you need help with, or what math problem you want help solving, without the need for hard-to-understand text.
 
 
 ## Background
@@ -40,4 +40,4 @@ As mentioned above, my project will probably need a small (or large) team of pro
 
 ## Acknowledgments
 
-Thank you Building AI course for helping me understand AI in a fun a innovative way!
+Thank you Building AI course for helping me understand AI in a fun and innovative way!
