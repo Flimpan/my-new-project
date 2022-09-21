@@ -40,4 +40,4 @@ As mentioned above, my project will probably need a small (or large) team of pro
 
 ## Acknowledgments
 
-Thank you Building AI course for helping me understand AI in a fun and innovative way!
+Thank you to the people behind the Building AI course for helping me understand AI in a fun and innovative way!
