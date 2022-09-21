@@ -40,4 +40,5 @@ As mentioned above, my project will probably need a small (or large) team of pro
 
 ## Acknowledgments
 
-Thank you to the people behind the Building AI course for helping me understand AI in a fun and innovative way!
+Thank you to the people behind the Building AI course for helping me understand AI in a fun and innovative way! 
+Also I'm sorry if my project is a little underwhelming compared to the others. I'm planning on learning Pythong in the future and will then come back to this project to maybe add some lines of test code to see how long I can take this project on my own.
