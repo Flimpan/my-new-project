@@ -26,7 +26,7 @@ What my idea will help with:
 
 The idea is for the user to talk to the program and describe the math problem i.e. "long division" and the program will then give information about said math problem and try to help the user. If the user has a more specific problem and needs help with an entire equation, the user can then just read out the equation as is, and the program will then try to translate the words into text in real-time and then try to solve the math problem with a step-by-step explanation for the user.
 
-![https://previews.123rf.com/images/antonioguillem/antonioguillem1701/antonioguillem170100031/68710765-casual-man-talking-to-the-mobile-phone-using-the-voice-recognition-at-home.jpg]
+I have no idea how to add an image to my ReadMe... [https://previews.123rf.com/images/antonioguillem/antonioguillem1701/antonioguillem170100031/68710765-casual-man-talking-to-the-mobile-phone-using-the-voice-recognition-at-home.jpg]
 
 
 ## Challenges
